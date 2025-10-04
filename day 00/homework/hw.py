@@ -1,5 +1,7 @@
 from turtle import *
 
+shape("turtle")
+
 speed(30)
 width(7)
 color("purple")
