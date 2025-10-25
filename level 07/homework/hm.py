@@ -20,4 +20,3 @@ mother_name = input("teo")
 father_name = input("giorgi")
 sentence = "my name is " + my_name + ", my big sisters name is " + big_sister +   ", my little sisters name is " + little_sister +   ", my mothers name is " + mother_name + ", my fathers name is — " + father_name + "."
 print(sentence)
-
